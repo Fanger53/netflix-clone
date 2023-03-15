@@ -22,4 +22,9 @@
 
 .movieRow--item img {
   width: 100%;
+  transform: scale(0.95);
+}
+
+.movieRow--item img:hover {
+  transform: scale(1.1);
 }
