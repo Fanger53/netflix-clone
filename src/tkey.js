@@ -16,37 +16,37 @@ const getHome = async () => {
     },
     {
       slug: 'treding',
-      title: 'recommendation for you',
+      title: 'Recommendation for you',
       items: await basicFetch(`/trending/all/week?api_key=${APIKEY}`)
     },
     {
       slug: 'toprated',
-      title: 'top',
+      title: 'Top',
       items: await basicFetch(`/movie/top_rated?api_key=${APIKEY}`)
     },
     {
       slug: 'action',
-      title: 'action',
+      title: 'Action',
       items: await basicFetch(`/discover/movie?with_genres=28&api_key=${APIKEY}`)
     },
     {
       slug: 'comedy',
-      title: 'comedy',
+      title: 'Comedy',
       items: await basicFetch(`/discover/movie?with_genres=35&api_key=${APIKEY}`)
     },
     {
       slug: 'horror',
-      title: 'horror',
+      title: 'Horror',
       items: await basicFetch(`/discover/movie?with_genres=27&api_key=${APIKEY}`)
     },
     {
       slug: 'romance',
-      title: 'romance',
+      title: 'Romance',
       items: await basicFetch(`/discover/movie?with_genres=10749&api_key=${APIKEY}`)
     },
     {
       slug: 'documentals',
-      title: 'documentary',
+      title: 'Documentary',
       items: await basicFetch(`/discover/movie?with_genres=99&api_key=${APIKEY}`)
     },
   ]
