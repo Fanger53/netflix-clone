@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+<h1 align="center">Netlix Clone</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <strong>Made by David Leonardo Castillo R</strong>
+  <br>
+   Netflix clone is a  application for  handle the spends of daily routine, this spends are called transfer that you can create and group them.
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://github.com/Fanger53/netflix-clone/issues">
+    <img src="https://img.shields.io/badge/REPORT%20A%20BUG-purple?style=for-the-badge">
+  </a>
+   ‎ ‎ ‎ ‎
+  <a href="https://github.com/Fanger53/netflix-clone/issues">
+    <img src="https://img.shields.io/badge/Request%20a%20feature-purple?style=for-the-badge">
+  </a>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👩🏼‍💻 About Netlix Clone
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+this  app is created using create-react-app, the purpose is to make a copy of the appearance from the popular app Netflix .<br>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/31552010/232798804-2221471a-d5d9-480e-9cf1-31e55eb2eb0c.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<hr>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 🔴 Live Demo:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[netflixclone.io](https://Fanger53.github.io/netflix-clone)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔧 Built with
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React
+- HTML
+- IMDB Api
+- Scss
+- VS code
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ⚒️ Tested with
 
-## Learn More
+- Jest
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 Pre-requisites
 
-### Code Splitting
+- npm 8.19.3
+- React.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤖 Getting Started
 
-### Analyzing the Bundle Size
+To get a local copy up and running follow these simple steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Go to the [repository page](https://github.com/Fanger53/netflix-clone).
+2. Press the "Code" button and copy the link.
+3. Clone it using git command `git clone <link>`.
+4. Follow 'Setup' steps.
 
-### Making a Progressive Web App
+## 📝 Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Open the terminal.
+2. On the terminal navigate to the project directory using `cd netflix-clone/`.
+3. Install dependencies using: `npm install`.
+4. Start the application : `npm start`.
+5. To Stop the application : Press `Ctrl + c`
 
-### Advanced Configuration
+## 👥 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+👤 **David Leonardo Castillo R**
 
-### Deployment
+- Github: [@David Castillo](https://github.com/Fanger53)
+- Twitter: [@David Castillo](https://twitter.com/DavidLe97005129)
+- Linkedin: [@David Castillo](https://www.linkedin.com/in/david-castillo-61ba10b8/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## 🤝 Contributions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Fanger53/netflix-clone/issues).
+
+
+## ⭐ Show your support
+
+Give a ⭐️ if you like this project!
