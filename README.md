@@ -30,10 +30,6 @@ this  app is created using create-react-app, the purpose is to make a copy of th
 <hr>
 
 
-## 🔴 Live Demo:
-
-[netflixclone.io](https://Fanger53.github.io/netflix-clone)
-
 ## 🔧 Built with
 
 - React
